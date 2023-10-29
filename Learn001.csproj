@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>False</UseWindowsForms>
+    <ApplicationIcon>noun-folder-78797.png</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="noun-folder-78797.png" />
+  </ItemGroup>
+
+</Project>
