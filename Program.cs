@@ -16,7 +16,7 @@ if (LenFolder > 0)
 
 
 
-        Console.WriteLine("-----------------------------------------------------------------------");
+        Console.WriteLine("---------------------------------------------------------------------------");
 
         //Create DirectoryInfo For Search File
         DirectoryInfo di = new DirectoryInfo(path);
